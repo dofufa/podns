@@ -10,6 +10,10 @@ bbc-newshr:
   feed: https://podcasts.files.bbci.co.uk/p002vsnk.rss
   title: BBC News Hour
 
+bbc-newscast:
+  feed: https://podcasts.files.bbci.co.uk/p05299nl.rss
+  title: BBC Newscast
+
 bbc-news@6:
   feed: https://podcasts.files.bbci.co.uk/b006qjxt.rss
   title: BBC Six O'Clock News
