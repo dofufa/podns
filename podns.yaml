@@ -34,6 +34,14 @@ gum-faketn:
   feed: https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/6ca454ed-271f-41f0-8d4a-ad8d0128b55f/9749488d-8ae2-49cf-b7c2-ad8d0128b585/podcast.rss
   title: Fake the Nation
 
+realpy-realpy:
+  feed: https://realpython.com/podcasts/rpp/feed
+  title: The Real Python Podcast
+
+talkpy-talkpy:
+  feed: https://talkpython.fm/episodes/rss
+  title: Talk Python To Me
+
 wnyc-otm:
   feed: http://feeds.feedburner.com/onthemedia
   title: On the Media
