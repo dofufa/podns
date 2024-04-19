@@ -1,0 +1,35 @@
+apm-marketplace:
+  feed: https://www.marketplace.org/feed/podcast/marketplace
+  title: APM Marketplace
+
+bbc-global:
+  feed: https://podcasts.files.bbci.co.uk/p02nq0gn.rss
+  title: BBC Global News Podcast
+
+bbc-newshr:
+  feed: https://podcasts.files.bbci.co.uk/p002vsnk.rss
+  title: BBC News Hour
+
+bbc-news@6:
+  feed: https://podcasts.files.bbci.co.uk/b006qjxt.rss
+  title: BBC Six O'Clock News
+
+ciso-ciso:
+  feed: https://cisoseries.libsyn.com/rss
+  title: CISO News
+
+gum-faketn:
+  feed: https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/6ca454ed-271f-41f0-8d4a-ad8d0128b55f/9749488d-8ae2-49cf-b7c2-ad8d0128b585/podcast.rss
+  title: Fake the Nation
+
+wnyc-otm:
+  feed: http://feeds.feedburner.com/onthemedia
+  title: On the Media
+
+vox-pivot:
+  feed: https://feeds.megaphone.fm/pivot
+  title: Pivot
+
+vox-vergecast:
+  feed: https://feeds.megaphone.fm/vergecast
+  title: Vergecast
