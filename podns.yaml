@@ -22,6 +22,10 @@ espn-ath:
   feeed: https://feeds.megaphone.fm/ESP3576893659
   title: ESPN Around the Horn
 
+espn-bbtn:
+  feed: https://feds.megaphone.fm/ESP1723897648
+  title: Baseball Tonight with Buster Olney
+
 espn-pti:
   feeed: https://feeds.megaphone.fm/ESP7239282233
   title: ESPN Pardon the Interruption
