@@ -50,6 +50,10 @@ wnyc-otm:
   feed: http://feeds.feedburner.com/onthemedia
   title: On the Media
 
+vox-decoder:
+  feed: https://feeds.megaphone.fm/recodedecode
+  title: Decoder with Nilay Patel
+
 vox-pivot:
   feed: https://feeds.megaphone.fm/pivot
   title: Pivot
