@@ -50,6 +50,10 @@ realpy-realpy:
   feed: https://realpython.com/podcasts/rpp/feed
   title: The Real Python Podcast
 
+rogan-rogan:
+  feed: https://feeds.megaphone.fm/GLT1412515089
+  title: The Joe Rogan Experience
+
 talkpy-talkpy:
   feed: https://talkpython.fm/episodes/rss
   title: Talk Python To Me
