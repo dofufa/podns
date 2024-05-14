@@ -22,6 +22,10 @@ bbc-news@6:
   feed: https://podcasts.files.bbci.co.uk/b006qjxt.rss
   title: BBC Six O'Clock News
 
+cbs-60mins:
+  feed: https://rss.art19.com/60-minutes
+  title: CBS 60 Minutes
+
 ciso-ciso:
   feed: https://cisoseries.libsyn.com/rss
   title: CISO News
